@@ -1,0 +1,4 @@
+IOS-XE router name,ip address
+Router-1,172.11.1.1
+Router-2,172.11.1.2
+Router-3,172.11.1.3
